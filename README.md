@@ -8,6 +8,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0709-to-lower-case) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
