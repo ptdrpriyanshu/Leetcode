@@ -24,11 +24,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0118-pascals-triangle) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1260-shift-2d-grid) |
