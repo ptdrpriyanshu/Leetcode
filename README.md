@@ -8,6 +8,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0709-to-lower-case) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Two Pointers
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
