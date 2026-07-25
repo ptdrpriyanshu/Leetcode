@@ -48,6 +48,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
