@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
@@ -38,6 +39,7 @@
 | [0014-longest-common-prefix](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
