@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0016-3sum-closest) |
@@ -55,6 +56,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1207-unique-number-of-occurrences) |
