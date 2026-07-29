@@ -44,6 +44,7 @@
 | [0016-3sum-closest](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -116,6 +117,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
