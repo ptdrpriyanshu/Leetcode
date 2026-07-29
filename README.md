@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
 | [0977-squares-of-a-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
