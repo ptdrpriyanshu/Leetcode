@@ -11,6 +11,7 @@
 | [0459-repeated-substring-pattern](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0709-to-lower-case) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -148,4 +150,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
