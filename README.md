@@ -55,6 +55,7 @@
 | [0118-pascals-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0704-binary-search) |
@@ -188,4 +190,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
