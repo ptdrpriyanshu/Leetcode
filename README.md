@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Matrix
 |  |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
