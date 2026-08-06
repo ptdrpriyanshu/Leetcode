@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0704-binary-search) |
@@ -83,6 +84,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Matrix
@@ -220,5 +223,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
