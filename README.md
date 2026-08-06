@@ -115,6 +115,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -208,4 +209,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
