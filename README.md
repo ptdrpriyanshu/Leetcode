@@ -8,6 +8,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -88,6 +89,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -177,6 +179,7 @@
 | [0016-3sum-closest](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -186,10 +189,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -258,4 +263,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
