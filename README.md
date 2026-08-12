@@ -63,6 +63,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -112,6 +113,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
