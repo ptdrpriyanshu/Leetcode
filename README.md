@@ -84,6 +84,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -143,6 +144,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
