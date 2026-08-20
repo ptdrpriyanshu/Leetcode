@@ -60,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0118-pascals-triangle) |
@@ -150,6 +151,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -188,6 +190,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Binary Search
