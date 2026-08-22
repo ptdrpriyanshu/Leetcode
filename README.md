@@ -16,6 +16,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2942-find-words-containing-character](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -105,6 +106,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2942-find-words-containing-character](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
