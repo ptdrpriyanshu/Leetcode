@@ -158,6 +158,7 @@
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
@@ -210,6 +211,7 @@
 | [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -383,4 +386,5 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
