@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -380,5 +381,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
