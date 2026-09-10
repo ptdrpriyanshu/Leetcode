@@ -181,6 +181,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
