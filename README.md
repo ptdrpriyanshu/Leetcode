@@ -104,6 +104,7 @@
 | [0905-sort-array-by-parity](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0976-largest-perimeter-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1051-height-checker) |
@@ -206,6 +207,7 @@
 | [0507-perfect-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -289,6 +291,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -324,6 +327,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -439,6 +443,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -498,4 +503,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
