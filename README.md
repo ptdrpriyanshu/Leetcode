@@ -209,6 +209,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1837-sum-of-digits-in-base-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -366,6 +368,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
@@ -486,4 +489,12 @@
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
