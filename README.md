@@ -200,6 +200,7 @@
 | [0002-add-two-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -215,10 +216,12 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1929-concatenation-of-array) |
