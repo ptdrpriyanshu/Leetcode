@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
@@ -72,6 +73,7 @@
 | [0039-combination-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
@@ -430,6 +432,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
