@@ -6,19 +6,18 @@ public:
         int high=n-1;
         while(low<=high)
         {
-            
             int mid=low+(high-low)/2;
-            if(nums[mid]<target)
+            if(nums[mid]==target)
+            {
+                return mid;
+            }
+            else if(nums[mid]<target)
             {
                 low=mid+1;
             }
-            else if(nums[mid]>target)
-            {
-                high=mid-1;
-            }
             else
             {
-                return mid;
+                high=mid-1;
             }
         }
         return -1;
