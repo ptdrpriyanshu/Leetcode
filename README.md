@@ -173,6 +173,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -232,6 +233,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1837-sum-of-digits-in-base-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -346,6 +348,7 @@
 | [1051-height-checker](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
