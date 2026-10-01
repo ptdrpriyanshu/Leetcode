@@ -137,6 +137,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2815-max-pair-sum-in-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -175,6 +176,7 @@
 | [1512-number-of-good-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2815-max-pair-sum-in-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
