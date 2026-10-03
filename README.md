@@ -242,6 +242,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2843-count-symmetric-integers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -414,6 +415,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
+| [2843-count-symmetric-integers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
