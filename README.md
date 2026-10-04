@@ -15,6 +15,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -67,6 +68,7 @@
 | [0152-maximum-product-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Array
 |  |
@@ -284,6 +286,7 @@
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -369,6 +372,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0976-largest-perimeter-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -505,6 +509,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quickselect
 |  |
