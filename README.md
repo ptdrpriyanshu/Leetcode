@@ -247,6 +247,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1837-sum-of-digits-in-base-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -384,6 +385,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
