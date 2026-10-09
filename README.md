@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -44,6 +45,7 @@
 | [0042-trapping-rain-water](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
