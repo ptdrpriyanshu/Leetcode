@@ -1,53 +1,51 @@
-struct cmp{
-    
-    bool operator()(const pair<int,int>&a ,const pair<int,int>&b)
+struct cmp {
+    // Mistake 1: Comparator mein frequency (second) compare karni hai
+    bool operator()(pair<int,int>& a, pair<int,int>& b)
     {
-        if(a.first!=b.first)
-        {
-            return a.first>b.first;
+        if (a.first != b.first) {
+            return a.first > b.first;
         }
-        return a.second>b.second;
+
+        // Mistake 2: Yahan a.second aur b.second compare honge
+        return a.second > b.second;
     }
 };
 
 class Solution {
 public:
-    
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        priority_queue<pair<int,int>, vector<pair<int,int>>,cmp>pq;
-
+        priority_queue<pair<int,int>,vector<pair<int,int>>,cmp>q;
         unordered_map<int,int>f;
         vector<int>res;
-        for(int i=0;i<nums.size();i++)
+        for(int c:nums)
         {
-            f[nums[i]]++;
+            f[c]++;
         }
+
         for(auto i:f)
         {
             int ch=i.first;
             int freq=i.second;
-            pair<int,int>curr={freq,ch};
-
-            if(pq.size()<k)
-            {
-                pq.push(curr);
-                continue;
-            }
-
-            if(pq.top().first>=freq)
-            {
-                continue;
-            }   
-            pq.pop();
-            pq.push(curr);
             
-        }
-        while(!pq.empty())
+          pair<int,int> curr = {freq, ch};
+            if(q.size()<k)
             {
-                res.push_back(pq.top().second);
-                pq.pop();
+                q.push(curr);
+                continue;
             }
+            if(freq<=q.top().first)
+                continue;
+            
+            q.pop();
+            q.push(curr);
+           
+        }
+
+        while(!q.empty())
+        {
+            res.push_back(q.top().second);
+            q.pop();
+        }
         return res;
     }
-
 };
