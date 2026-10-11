@@ -58,6 +58,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0986-interval-list-intersections) |
@@ -119,6 +120,7 @@
 | [0525-contiguous-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0706-design-hashmap) |
@@ -325,6 +327,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -349,6 +352,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0912-sort-an-array) |
@@ -369,6 +373,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -424,6 +429,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
