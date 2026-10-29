@@ -14,6 +14,7 @@
 | [0290-word-pattern](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -181,6 +182,7 @@
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -385,6 +387,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0912-sort-an-array) |
