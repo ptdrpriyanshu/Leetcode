@@ -165,6 +165,7 @@
 | [2942-find-words-containing-character](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -445,6 +446,7 @@
 | [0904-fruit-into-baskets](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -461,6 +463,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
