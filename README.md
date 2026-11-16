@@ -253,6 +253,7 @@
 | [0189-rotate-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0507-perfect-number) |
