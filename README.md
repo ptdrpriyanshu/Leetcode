@@ -168,6 +168,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -280,6 +281,7 @@
 | [2843-count-symmetric-integers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -289,6 +291,7 @@
 | [0258-add-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -452,6 +455,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ptdrpriyanshu/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -478,6 +482,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
