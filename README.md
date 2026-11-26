@@ -259,6 +259,7 @@
 | [0258-add-digits](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0509-fibonacci-number) |
@@ -356,6 +357,7 @@
 | [0231-power-of-two](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
@@ -591,6 +593,7 @@
 | [0206-reverse-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ptdrpriyanshu/Leetcode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ptdrpriyanshu/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ptdrpriyanshu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
